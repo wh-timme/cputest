@@ -1,3 +1,9 @@
-memtest is a DRAM bandwidth benchmark tool.
+cputest is a Single Core & Multi-Thread Performance Benchmark Tool.
 
-modify "GB" and "max_thread" constants before "go build memtest.go". GB should be lesser than half of your actual DRAM memory.
+It's available in golang & python2.
+
+Golang Single Core Ranking:
+
+2.97s -- 5GHz Skylake
+3.47s -- 3.2GHz Apple M1
+4.0s -- 3.4GHz Zen2

@@ -1,6 +1,6 @@
 cputest is a Single Core & Multi-Thread Performance Benchmark Tool.
 
-It's available in golang & python2.
+It's available in golang, swift & python2.
 
 Golang Single Core Ranking:
 

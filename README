@@ -1,9 +1,9 @@
 cputest is a Single Core & Multi-Thread Performance Benchmark Tool.
 
-It's available in golang, swift & python2.
+It's available in golang, rust, swift & python2. Golang implementation is the fastest.
 
 Golang Single Core Ranking:
 
 2.97s -- 5GHz Skylake
 3.47s -- 3.2GHz Apple M1
-4.0s -- 3.4GHz Zen2
+~4.0s -- 3.4GHz Zen2
